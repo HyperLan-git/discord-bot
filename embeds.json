@@ -1,0 +1,78 @@
+{
+	"rules": {
+        "title": "**Bienvenue !**",
+        "author":
+        {
+            "name": "Bardo",
+            "icon_url": "https://cdn.discordapp.com/avatars/823718736833937418/82203ee30dcf274fb34e757d6459fbae.webp?size=128"
+        },
+        "footer":
+        {
+            "text": "vv Cliquez ci-dessous vv"
+        },
+        "description": "**Si l'une de ces règles n'est pas respectée, vous recevrez un bannissement temporaire ou permanent suivant la gravité de la situation.**\n**Veuillez accepter les règles si vous voulez accéder à ce serveur.**",
+        "fields":
+        [
+            {
+                "name": "Régle 1",
+                "value": "Ce discord a été créer afin de rassembler les joueurs ! Soyez courtois entre vous !"
+            },
+            {
+                "name": "Régle 2",
+                "value": "Le spam est interdit (images, publicités et liens autorisés dans le respect de la bienséance et de la vie privée)."
+            },
+            {
+                "name": "Régle 3",
+                "value": "Ne pas publier de contenu déplacé dans les channels de discussion, pensez que vous n'êtes pas seuls et que vous vous trouvez dans un espace tout public."
+            },
+            {
+                "name": "Régle 4",
+                "value": "Pas de racisme, de débat sur les croyances ou d'opinions politiques.\n\n*N'oubliez d'aller sélectionner un jeu de votre choix afin de participer à la conversation avec d'autres joueurs.*"
+            }
+        ]
+    },
+    "roles": {
+        "title": "**Jeux**",
+        "author":
+        {
+            "name": "Bardo",
+            "icon_url": "https://cdn.discordapp.com/avatars/823718736833937418/82203ee30dcf274fb34e757d6459fbae.webp?size=128"
+        },
+        "footer":
+        {
+            "text": "vv Cliquez ci-dessous vv"
+        },
+        "description": "Voici le menu de choix des jeux :\nVous pourrez alors participer a la discussion sur les jeux et partager des moments (clips, liens, compilations, etc.) avec ceux qui ont sélectionné le même jeu.\nSélectionnez la réaction qui correspond au jeu souhaité.\n*Ces channels sont soumis aux mêmes règles que les tous les autres channels textuels et vocaux, merci de les respecter.*",
+        "fields":
+        [
+            {
+                "name": "**Jeu 1**",
+                "value": "League of Legends"
+            },
+            {
+                "name": "**Jeu 2**",
+                "value": "Valorant"
+            },
+            {
+                "name": "**Jeu 3**",
+                "value": "Minecraft"
+            },
+            {
+                "name": "**Jeu 4**",
+                "value": "Rocket League"
+            },
+            {
+                "name": "**Jeu 5**",
+                "value": "Valheim"
+            },
+            {
+                "name": "**Jeu 6**",
+                "value": "Jeux coop"
+            },
+            {
+                "name": "**Jeu 7**",
+                "value": "Autres jeux"
+            }
+        ]
+    }
+}

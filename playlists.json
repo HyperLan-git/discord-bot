@@ -1,9 +1,0 @@
-[
-	{
-		name: "list1",
-		songs: [
-			{name:"bruh",url:"someurl"},
-			{name:"e",url:"no"}
-		]
-	}
-]

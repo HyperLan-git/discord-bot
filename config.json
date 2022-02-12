@@ -1,0 +1,28 @@
+{
+	"remove_embeds": true,
+	"channel_welcome": "928425552958861362",
+	"channel_roles": "928425708894715966",
+	"avatar": "https://cdn.discordapp.com/avatars/823718736833937418/82203ee30dcf274fb34e757d6459fbae.webp?size=128",
+	"yes_emoji": "✅",
+	"no_emoji": "❎",
+	"rules_accepted": "Support Aguerri",
+	"message_kicked": "Vous vous êtes fait kick du serveur LCS ! Acceptez les régles pour rejoindre le serveur.\nEnvoyez $invite pour recevoir une invitation.",
+	"message_invalid": "Commande invalide !\nUtilise $help pour avoir la liste des commandes.",
+	"invite": "",
+	"chat_with_bot": "929479982231720016",
+	"assignable_roles": {
+		"League Of Legend": "928480343470776331",
+		"Valorant": "928479885947711528",
+		"Valheim": "928480062511145002",
+		"Minecraft": "928480024892436561",
+		"Rocket League": "928479924568875019",
+		"Jeux Coop": "928479729617608774",
+		"Autres Jeux": "928479659983769632"
+	},
+	"messages": {
+		"help": "Voici une liste de commandes :\n$ping $roll $bug $rules $init $reload\n$join $listen $listen $listen_to $start_listening $stop_listening",
+		"ping": "Pong !",
+		"catgirl": "Non.",
+		"bug": "Quand tu fais des memes, essaie au moins de faire quelque chose qui a du sens. \"le bot crash\", tu as au moins une idée de comment ca fonctionne un bot discord en fait? Ce que fait l'API discord js? Ce que font les devs? Ca devrait pas te couter grand chose de te renseigner un minimum et d'en tirer des conclusions qui ont du sens avant de poster ce genre d'absurdités.\nJe pense qu'il te manque des clefs de compréhension, à la fois théoriques, techniques, et des implications de ce que développer un bot discord constitue et implique, pour comprendre que \"refaire un bot qui marche\" n'est pas vraiment une solution, et je trouve qu'assumer que c'est le bot qui crash, n'est pas réellement approprié, voire un chouilla présomptueux."
+	}
+}
